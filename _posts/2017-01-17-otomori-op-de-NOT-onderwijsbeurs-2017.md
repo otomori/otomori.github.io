@@ -9,8 +9,6 @@ Otomori is van 24-28 januari te testen op de <a href="http://www.not-online.nl/n
 
 &nbsp;
 
-&nbsp;
-
 <img src="/NOT.png" alt="NOT Onderwijsbeurs 2017" width="771" height="100">
 
 &nbsp;
