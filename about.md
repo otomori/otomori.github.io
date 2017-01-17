@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Otomori is Timo Hoogland & Nino de Wit
+Otomori wordt ontwikkeld door Timo Hoogland & Nino de Wit.
