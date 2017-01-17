@@ -6,4 +6,4 @@ permalink: /contact/
 
 Otomori wordt ontwikkeld door Timo Hoogland & Nino de Wit.
 
-info.otomori@gmail.com
+<info.otomori@gmail.com>
