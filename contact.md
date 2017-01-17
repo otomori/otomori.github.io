@@ -49,3 +49,5 @@ Otomori wordt ontwikkeld door Timo Hoogland & Nino de Wit.
 &nbsp;
 
 &nbsp;
+
+<img src="/otomori_bw.jpg" alt="Otomori_bw" max-width:100%; max-height:100%;>
