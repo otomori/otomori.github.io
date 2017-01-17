@@ -7,4 +7,16 @@ categories: otomori update
 
 Otomori is van 24-28 januari te testen op de <a href="http://www.not-online.nl/nl-NL/Bezoeker.aspx?gclid=CPjByr_rydECFRa3GwodK9kGPg" target="_blank">NOT Onderwijsbeurs</a> in Jaarbeurs Utrecht!
 
+&nbsp;
+
+&nbsp;
+
 <img src="/NOT.png" alt="NOT Onderwijsbeurs 2017" width="771" height="100">
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
