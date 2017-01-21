@@ -10,7 +10,7 @@ Van 24 tot en met 28 januari staan wij met Otomori op de <a href="http://www.not
 </p>
 &nbsp;
 
-<img src="/NOT.png" alt="NOT Onderwijsbeurs 2017" width="740" height="72">
+<img src="/NOT.png" alt="NOT Onderwijsbeurs 2017" width="740" height="95">
 &nbsp;
 
 &nbsp;
