@@ -6,7 +6,7 @@ categories: otomori update
 ---
 
 <p style="text-align:justify">
-	<a href="http://www.hku.nl/Opleidingen/MuziekEnTechnologie/OverHKUMuziekEnTechnologie2/MeerMuziekInDeKlas.htm" target="blank">Otomori</a> heeft een eigen pagina gekregen op de website van de Hogeschool voor de Kunsten Utrecht (<a href="http://www.hku.nl" target="blank">HKU</a>). Op deze pagina staat meer over het project Meer Muziek in de Klas, en vervolgens over ons onderdeel daar in. <br>
+	<a href="http://www.hku.nl/Opleidingen/MuziekEnTechnologie/OverHKUMuziekEnTechnologie2/MeerMuziekInDeKlas.htm" target="blank">Otomori</a> heeft een eigen pagina gekregen op de website van de Hogeschool voor de Kunsten Utrecht (<a href="http://www.hku.nl" target="blank">HKU</a>). Op deze pagina staat meer over het project Meer Muziek in de Klas, en over ons onderdeel daarin. <br>
 	<br>
 	<q>
 		<a href="http://www.meermuziekindeklas.nl" target="blank">Méér Muziek in de Klas</a> heeft als doel om voor 2020 alle kinderen in het primair onderwijs in aanraking te laten komen met muziek maken. De inzet van muziektechnologie biedt goede kansen om aan deze doelstelling  bij te dragen.<br>
