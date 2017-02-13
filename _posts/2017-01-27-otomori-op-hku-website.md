@@ -17,7 +17,7 @@ categories: otomori update
 &nbsp;
 
 <a href="http://www.hku.nl/Opleidingen/MuziekEnTechnologie/OverHKUMuziekEnTechnologie2/MeerMuziekInDeKlas.htm" target="blank">
-	<img src="/pic_hku_mmidk.png" alt="HKU Meer Muziek in de Klas banner met Tekst" width="740" height="83">
+	<img src="/pic_hku_mmidk.png" alt="HKU Meer Muziek in de Klas banner met Tekst" width="740" height="117">
 </a>
 
 &nbsp;
