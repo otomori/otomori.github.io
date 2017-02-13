@@ -6,11 +6,15 @@ categories: otomori update
 ---
 
 <p style="text-align:justify">
-Van 24 tot en met 28 januari staan wij met Otomori op de <a href="http://www.not-online.nl/nl-NL/Bezoeker.aspx?gclid=CPjByr_rydECFRa3GwodK9kGPg" target="_blank">NOT Onderwijsbeurs</a> in de Jaarbeurs in Utrecht! Wij presenteren dan dit project bij de stand van de organisatie <a href="https://www.meermuziekindeklas.nl" target="_blank">Meer Muziek in de Klas</a>. Gedurende de hele week kunnen bezoekers Otomori uitproberen.
+Van 24 tot en met 28 januari hebben wij met Otomori op de <a href="http://www.not-online.nl/nl-NL/Bezoeker.aspx?gclid=CPjByr_rydECFRa3GwodK9kGPg" target="_blank">NOT Onderwijsbeurs</a> in de Jaarbeurs in Utrecht gestaan! Wij presenteerden ons project bij de stand van de organisatie <a href="https://www.meermuziekindeklas.nl" target="_blank">Meer Muziek in de Klas</a>. De beurs werd geopend door Koninging Maxima, en zij heeft tijdens de opening ons spel uitgeprobeerd samen met twee kinderen! Gedurende de rest van de week hebben we met veel bezoekers gepraat en goede feedback en ideeën gekregen over wat we in de toekomst met Otomori kunnen doen.
 </p>
 &nbsp;
 
 <img src="/NOT.png" alt="NOT Onderwijsbeurs 2017" width="740" height="95">
+&nbsp;
+
+&nbsp;
+<img src="/otomori_not-2017_com.jpg" alt="Otomori presentatie op de Nationale Onderwijs Tentoonstelling" width="740" height="740">
 &nbsp;
 
 &nbsp;
