@@ -14,7 +14,7 @@ Van 24 tot en met 28 januari hebben wij met Otomori op de <a href="http://www.no
 &nbsp;
 
 &nbsp;
-<img src="/otomori_not-2017_com.jpg" alt="Otomori presentatie op de Nationale Onderwijs Tentoonstelling" width="740" height="740">
+<img src="/otomori_not-2017_comp.jpg" alt="Otomori presentatie op de Nationale Onderwijs Tentoonstelling" width="740" height="740">
 &nbsp;
 
 &nbsp;
