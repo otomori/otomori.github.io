@@ -4,10 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Otomori wordt ontwikkeld door:
-<br>
-<br>
-<a href="http://www.timohoogland.com" target="_blank">Timo Hoogland</a> & <a href="http://www.ninodewit.com" target="_blank">Nino de Wit</a>.
+Otomori wordt ontwikkeld door Timo Hoogland & Nino de Wit.
 <br>
 <br>
 <info.otomori@gmail.com>
