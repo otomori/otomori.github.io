@@ -10,7 +10,7 @@ categories: otomori update
 	<br>
 	Met vriendelijke groet,<br>
 	<br>
-	Timo Hoogland & Nino de Wit
+	Team Otomori
 </p>
 
 &nbsp;
