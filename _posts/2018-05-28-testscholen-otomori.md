@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Otomori zoekt testscholen!"
-date:   2018-05-28 13:40:00 -0100
+date:   2018-05-28 11:40:00 -0100
 categories: otomori update
 ---
 
